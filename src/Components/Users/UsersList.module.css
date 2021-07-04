@@ -1,0 +1,21 @@
+.list {
+  margin: 2rem auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem;
+}
+.list ul {
+  margin: 0;
+  padding: 10px 12px;
+}
+.list li {
+  list-style-type: none;
+}
+.list p {
+  border: 1px solid grey;
+  border-radius: 4px;
+  padding: 12px;
+}
+.list:hover {
+  opacity: 0.8;
+}
